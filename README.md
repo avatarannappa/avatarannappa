@@ -2,9 +2,9 @@
 <br>
 
 <p>
-  <img width="49%" align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=avatarannappa&theme=dark&hide_border=true">
-  <img width="49%" align="right" src = "https://github-readme-stats.vercel.app/api?username=avatarannappa&show_icons=true&theme=bear">
+  <img width="45%" align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=avatarannappa&theme=dark&hide_border=true">
+  <img width="45%" align="right" src = "https://github-readme-stats.vercel.app/api?username=avatarannappa&show_icons=true&theme=bear">
 </p>
 <p>
-  <img width="49%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avatarannappa&skills=Java,CSS,JSON,HTML,JavaScript,Python,Shell,TypeScript,Vue" />
+  <img width="45%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avatarannappa&skills=Java,CSS,JSON,HTML,JavaScript,Python,Shell,TypeScript,Vue" />
 </p>
