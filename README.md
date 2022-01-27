@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm avatarannappa!</h1>
 
-<img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avatarannappa&skills=Java,CSS,JSON,HTML,JavaScript,Python,Shell,TypeScript,Vue">
 <img width="50%" align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=avatarannappa&theme=dark&hide_border=true">
 <img width="50%" align="right" src = "https://github-readme-stats.vercel.app/api?username=avatarannappa&show_icons=true&theme=bear">
+<img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=avatarannappa&skills=Java,CSS,JSON,HTML,JavaScript,Python,Shell,TypeScript,Vue">
 
 I'm a backend software developer.
 
