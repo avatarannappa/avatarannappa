@@ -18,3 +18,17 @@ I'm a backend software developer.
 
 &ensp;&ensp;&ensp;![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
+      山高水长
+      物象千万
+      非有老笔
+      清壮可穷
+          ───十八日 上阳台书 太白
+
+
+
+──▄▀▀▀▀▀───▄█▀▀▀█▄
+──▐▄▄▄▄▄▄▄▄██▌▀▄▀▐██
+──▐▒▒▒▒▒▒▒▒███▌▀▐███
+───▌▒▓▒▒▒▒▓▒██▌▀▐██
+───▌▓▐▀▀▀▀▌▓─▀▀▀▀▀
+                            
