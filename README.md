@@ -8,11 +8,11 @@ I'm a backend software developer.
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+&ensp;&ensp;&ensp;![Python](https://img.shields.io/badge/-%20Python-yellow?style=flat-square&logo=Python&logoColor=fff) ![Go](https://img.shields.io/badge/-%20GO-blue?style=flat-square&logo=go)
 
 🎉 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
+&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-%20Java-red?style=flat-square&logo=Java)  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
 
 ⚡ I like to use these  tools:
 
