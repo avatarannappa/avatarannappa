@@ -12,12 +12,17 @@ I'm a backend software developer.
 
 🎉 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-%20Java-red?style=flat-square&logo=Java)  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
+&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-%20Java-red?style=flat-square&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
 
 ⚡ I like to use these  tools:
 
 &ensp;&ensp;&ensp;![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
+:snail: I want to develop a habit of:
+
+ &ensp;&ensp;&ensp;![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=fff) 
+ 
+ 
       山高水长
       物象千万
       非有老笔
