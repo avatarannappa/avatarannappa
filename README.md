@@ -5,5 +5,5 @@
 </picture>
 <div style="display: flex; justify-content: space-between; overflow: auto; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=avatarannappa&show_icons=true&theme=bear" style="height: 200px; object-fit: cover; flex: 1;">
-    <img src="1.png" style="height: 200px; object-fit: cover; flex: 1;">
+    <img src="taibai1.png" style="height: 200px; object-fit: cover; flex: 1;">
 </div
